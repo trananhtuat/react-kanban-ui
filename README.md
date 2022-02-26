@@ -1,6 +1,6 @@
 # Video tutorial
 
-    
+    https://youtu.be/AL7IJVhuGeA
 
 # Reference
 
@@ -12,4 +12,4 @@
 
 # Preview
 
-!["React Draggable Kanban Board"]( "React Draggable Kanban Board")
+!["React Draggable Kanban Board"](https://user-images.githubusercontent.com/67447840/155845190-bd85601d-d2a0-4419-82bf-b8361f33075a.gif "React Draggable Kanban Board")
